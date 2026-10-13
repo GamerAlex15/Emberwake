@@ -1,0 +1,7 @@
+{
+  "name": "Emberwake",
+  "description": "A twin-stick siege in the ruins of a dead sun. You are the last light. Eight vigils, then the Hollow King.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
+
